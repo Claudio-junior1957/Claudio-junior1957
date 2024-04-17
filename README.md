@@ -1,8 +1,7 @@
 
-!(![Design sem nome (36)](https://github.com/Claudio-junior1957/Claudio-junior1957/assets/134631237/c9a4876c-b4c4-4569-aaa6-b49199b9786b)
-)
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="!![olá! eu sou o claudio](https://github.com/Claudio-junior1957/Claudio-junior1957/assets/134631237/89aafbdf-dc82-45fb-8093-71067b4ac668)" />
-&nbsp;&nbsp;&nbsp;
+![(36)](https://github.com/Claudio-junior1957/Claudio-junior1957/assets/134631237/c9a4876c-b4c4-4569-aaa6-b49199b9786b)
+&nbsp;
+&nbsp;
 
 <p align="center">Ola, seja bem vindo! Aqui você encontrará os meus primeiros códigos em diferentes tecnologias. O portfólio ainda é humilde, mas toda árvore um dia já foi uma semente.</p>&nbsp;
 
@@ -11,7 +10,6 @@
 <img width=40% align="center" src="https://" />
  </div>
  
- &nbsp;
  &nbsp;
 
 
@@ -23,10 +21,6 @@
 ![C](https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
@@ -41,7 +35,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
-&nbsp;
 &nbsp;
 
 ## Contacts:
