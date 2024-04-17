@@ -21,6 +21,7 @@
 ![C](https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ &nbsp;
 
 #### Studying in this moment:
 
