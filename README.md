@@ -1,9 +1,10 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Claudio-junior1957" />
+!(![Design sem nome (36)](https://github.com/Claudio-junior1957/Claudio-junior1957/assets/134631237/c9a4876c-b4c4-4569-aaa6-b49199b9786b)
+)
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="!![olá! eu sou o claudio](https://github.com/Claudio-junior1957/Claudio-junior1957/assets/134631237/89aafbdf-dc82-45fb-8093-71067b4ac668)" />
 &nbsp;&nbsp;&nbsp;
 
-
-<p align="center">Ola, seja bem vindo! Aqui você encontrará os meus primeiros códigos em diferentes tecnologias. O portfólio ainda é humilde, mas toda árvore um dia já foi uma semente. </p>&nbsp;
+<p align="center">Ola, seja bem vindo! Aqui você encontrará os meus primeiros códigos em diferentes tecnologias. O portfólio ainda é humilde, mas toda árvore um dia já foi uma semente.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://" />
@@ -26,7 +27,6 @@
 #### Secondary Stack:
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R]()&nbsp;
 
 #### Studying in this moment:
 
@@ -47,7 +47,7 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/claudio.garcia_jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:junior.pdf58@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/claudio-junior-05200a193//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
