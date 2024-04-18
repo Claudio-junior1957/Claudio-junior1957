@@ -2,11 +2,9 @@
 ![(36)](https://github.com/Claudio-junior1957/Claudio-junior1957/assets/134631237/c9a4876c-b4c4-4569-aaa6-b49199b9786b)
 &nbsp;
 &nbsp;
+ &nbsp;
 
-![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-junior1957&show_icons=true&theme=algoli)
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-junior1957&layout=compact&show_icons=true&theme=algolia)
-
-<p align="center">Ola, seja bem vindo! Aqui você encontrará os meus primeiros códigos em diferentes tecnologias. O portfólio ainda é humilde, mas toda árvore um dia já foi uma semente.</p>&nbsp;
+<p align="center">Seja bem vindo! Aqui você encontrará os meus primeiros códigos em diferentes tecnologias. O portfólio ainda é humilde, mas toda árvore um dia já foi uma semente.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://" />
@@ -14,6 +12,10 @@
  </div>
  
  &nbsp;
+ &nbsp;
+
+ ![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-junior1957&show_icons=true&theme=algoli)
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-junior1957&layout=compact&show_icons=true&theme=algolia)
 
 
 
